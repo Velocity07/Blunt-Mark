@@ -1,8 +1,4 @@
 # Blunt Mark
-This branch contains the files for Blunt Mark Bot Python
+This branch contains all the diffrent resources that Blunt Mark Minecraft Server uses. 
 
-Hikari Official documentation: https://www.hikari-py.dev/hikari/
-
-Lightbulb Official documentation: https://hikari-lightbulb.readthedocs.io/en/latest/
-
-Our Official Discord: https://discord.gg/hjBT6YWgdW/
+Discord: https://discord.io/bluntmark
